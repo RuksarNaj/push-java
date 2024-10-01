@@ -22,5 +22,4 @@ jobs:
         with:
           args: >
             -Dsonar.organization=ruksarnaj
-            -Dsonar.projectKey=Git-hubAction
-            -Dsonar.projectName='Git-hubAction'
+            -Dsonar.projectKey=push-java
